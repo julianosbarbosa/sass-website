@@ -1,0 +1,38 @@
+@import 'helpers/variaveis';
+@import 'helpers/mixins';
+
+/*normalize*/
+
+@import 'base/normalize';
+
+/*geral*/
+
+@import 'layout/geral';
+
+/*header*/
+
+@import 'layout/header';
+
+/*destaque*/
+
+@import 'layout/destaque';
+
+/*sobre*/
+
+@import 'layout/sobre';
+
+/*planos*/
+
+@import 'layout/planos';
+
+/*blog*/
+
+@import 'layout/blog';
+
+/*contato*/
+
+@import 'layout/contato';
+
+/*footer*/
+
+@import 'layout/footer';
